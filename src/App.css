@@ -1,0 +1,95 @@
+
+
+.navbar {
+  background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 70, 0.8015581232492998) 100%) !important;
+  color: #fff;
+}
+
+.brand,
+.list_item {
+  color:rgba(225, 116, 62, 0.927);
+}
+
+.list_item:hover {
+  color: rgb(21, 1, 1);
+}
+
+.btn {
+background: rgb(69, 93, 246);
+  border: none;
+  border-radius: 15px;
+  color: #fff;
+}
+
+.btn:hover {
+  background: rgb(98, 164, 222);
+}
+
+
+
+
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-container {
+  width: 30rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-header {
+  color: #000000;
+  padding: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.list-group-item {
+  border: none;
+}
+
+.card-footer {
+  background-color: #f8f9fa;
+  padding: 20px;
+  text-align: center;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+
+/* Custom CSS styles for the toast notification */
+.custom-toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 300px;
+  background-color: #28a745; /* Set desired background color */
+  color: #fff; /* Set desired text color */
+  border: none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.custom-toast .toast-header {
+  background-color: transparent;
+  border-bottom: none;
+  padding: 8px 12px;
+}
+
+.custom-toast .toast-header .me-auto {
+  font-weight: bold;
+}
+
+.custom-toast .toast-body {
+  padding: 12px;
+}

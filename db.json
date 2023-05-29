@@ -1,0 +1,202 @@
+{
+  "staffMembers": [
+    {
+      "id": "39sq3265waca",
+      "name": "Sabrina Cummings",
+      "email": "Sabrina.Cummings@gmail.com",
+      "address": "041 Ebert Branch Suite 357 Maxworth",
+      "dateofbirth": "Aug 17 1995",
+      "account": "NL18 PKNS 1005 1507 47",
+      "jobarea": "Implementation",
+      "companyname": "McLaughlin, Haley and Crooks",
+      "ccardnumber": "3718-327707-74295"
+    },
+    {
+      "id": "86tq93tc38gf",
+      "name": "Jesse O'Hara",
+      "email": "Jesse_OHara51@hotmail.com",
+      "address": "0841 Ofelia Courts Apt. 631 Gleasonland",
+      "dateofbirth": "Jan 28 1987",
+      "account": "GR66 5101 2072 7Z81 8892 3336 4U2",
+      "jobarea": "Metrics",
+      "companyname": "Spinka - Friesen",
+      "ccardnumber": "6709703461208516025"
+    },
+    {
+      "id": "rc74il78jx29",
+      "name": "Janie Denesik",
+      "email": "Janie98@yahoo.com",
+      "address": "9255 Harris Fall Suite 833 Maureenberg",
+      "dateofbirth": "Nov 13 1970",
+      "account": "SA74 1320 6049 7692 6218 130D",
+      "jobarea": "Division",
+      "companyname": "Kunde, Yundt and Deckow",
+      "ccardnumber": "3528-4522-2042-9575"
+    },
+    {
+      "id": "20ieuk58pd36",
+      "name": "Randolph Roberts",
+      "email": "Randolph_Roberts@gmail.com",
+      "address": "553 Mueller Crest Suite 081 North Mona",
+      "dateofbirth": "May 25 1999",
+      "account": "MT36 VGSI 8052 6318 C21D 0107 4345 G2L",
+      "jobarea": "Factors",
+      "companyname": "Schuster - Dickinson",
+      "ccardnumber": "6304972053937832098"
+    },
+    {
+      "id": "35tf85rwkh55",
+      "name": "Franklin Krajcik",
+      "email": "Franklin.Krajcik5@gmail.com",
+      "address": "489 Jones Shoal Suite 893 Pawtucket",
+      "dateofbirth": "Apr 25 2004",
+      "account": "PL91 0190 4008 0059 6164 3230 0843",
+      "jobarea": "Web",
+      "companyname": "Haley - Bosco",
+      "ccardnumber": "6383-7352-3994-3413"
+    },
+    {
+      "id": "2045yhcu43gr",
+      "name": "Justin Douglas",
+      "email": "Justin70@hotmail.com",
+      "address": "2207 Lindgren Courts Suite 433 Lake Eve",
+      "dateofbirth": "Feb 07 1995",
+      "account": "MU72 SPSA 0032 8700 5964 1150 062P AK",
+      "jobarea": "Accountability",
+      "companyname": "Stehr, Altenwerth and Ratke",
+      "ccardnumber": "3563-0662-3278-1199"
+    },
+    {
+      "id": "9442kccoti15",
+      "name": "Phil Ziemann",
+      "email": "Phil_Ziemann29@gmail.com",
+      "address": "1995 Soledad Island Apt. 061 Menifee",
+      "dateofbirth": "Apr 08 1976",
+      "account": "FR82 0080 0500 7876 6T12 5906 274",
+      "jobarea": "Infrastructure",
+      "companyname": "Wilderman - Crooks",
+      "ccardnumber": "6011-4635-7362-4594"
+    },
+    {
+      "id": "5070njfcfp45",
+      "name": "Sue Grant",
+      "email": "Sue.Grant@yahoo.com",
+      "address": "6243 Macejkovic Mountain Suite 103 Kozeyport",
+      "dateofbirth": "Mar 17 1962",
+      "account": "MR89 6040 3225 9819 0226 2100 244",
+      "jobarea": "Group",
+      "companyname": "Zieme, Hammes and Lubowitz",
+      "ccardnumber": "5413-9550-9431-1367"
+    },
+    {
+      "id": "53rr1911msnw",
+      "name": "Mable Stroman",
+      "email": "Mable.Stroman@gmail.com",
+      "address": "122 Cloyd Hollow Suite 469 Auerchester",
+      "dateofbirth": "Nov 16 1974",
+      "account": "LT74 2700 6003 5160 0282",
+      "jobarea": "Implementation",
+      "companyname": "Wiza Group",
+      "ccardnumber": "6771-8944-0482-3072"
+    },
+    {
+      "id": "4948tdaw51ol",
+      "name": "Dave Leuschke",
+      "email": "Dave63@hotmail.com",
+      "address": "20318 Dayna Rue Apt. 345 Atascocita",
+      "dateofbirth": "Nov 26 1984",
+      "account": "AZ57 FJKF 4336 0330 3003 7051 0005",
+      "jobarea": "Assurance",
+      "companyname": "Bradtke, Hagenes and Bergstrom",
+      "ccardnumber": "6759-4143-5159-2607-453"
+    },
+    {
+      "id": "2393kr73ybqa",
+      "name": "Roy Terry",
+      "email": "Roy.Terry20@gmail.com",
+      "address": "851 Favian Union Suite 262 Sanfordview",
+      "dateofbirth": "Jul 24 1989",
+      "account": "HU94 8005 1020 0950 8070 1008 1477",
+      "jobarea": "Group",
+      "companyname": "Runolfsdottir, Howell and Powlowski",
+      "ccardnumber": "3529-9377-9603-5425"
+    },
+    {
+      "id": "14ex45wm73vt",
+      "name": "Ida Padberg",
+      "email": "Ida.Padberg98@hotmail.com",
+      "address": "101 Bauch Overpass Apt. 416 Port Silasshire",
+      "dateofbirth": "Nov 19 1996",
+      "account": "AZ48 RISJ 9791 0016 7327 9343 4008",
+      "jobarea": "Functionality",
+      "companyname": "Rodriguez Inc",
+      "ccardnumber": "5408-5613-1369-3853"
+    },
+    {
+      "id": "vi36dr89wm25",
+      "name": "Dita Pelaj",
+      "email": "dita@gmail.com",
+      "address": "2 Boszorkany út",
+      "dateofbirth": "1998-12-10",
+      "account": "PD56 5555 5555 5555 5555",
+      "jobarea": "Data Analyst",
+      "companyname": "Dita-Tech",
+      "ccardnumber": "5555 5555 5555 5555"
+    },
+    {
+      "id": "blah12blah",
+      "name": "Blah",
+      "email": "blah@mail.com",
+      "address": "wsAD",
+      "dateofbirth": "1995-06-07",
+      "account": "ds231864",
+      "jobarea": "Tech",
+      "companyname": "CompanyX",
+      "ccardnumber": "1234 5678 9123 4567"
+    },
+    {
+      "id": "4e25c4e0-8b48-4ce5-ba44-1f78862dd436",
+      "name": "Ibrahim Ahmed Mohammed Ibrahim",
+      "email": "190ibrahimahmed@gmail.com",
+      "address": "Boszorkány road 2.",
+      "dateofbirth": "2023-05-17",
+      "account": "12141515151515",
+      "jobarea": "yjtjyt",
+      "companyname": "rjytryjt",
+      "ccardnumber": "587587"
+    },
+    {
+      "id": "b29cede7-5655-4d1b-99a2-f91b1ccc5cf4",
+      "name": "Chaimae Binjach",
+      "email": "chaimae@gmail.com",
+      "address": "2 Boszorkany út",
+      "dateofbirth": "2001-12-02",
+      "account": "d5463265",
+      "jobarea": "IT",
+      "companyname": "SHiny",
+      "ccardnumber": "8945611646516"
+    },
+    {
+      "id": "0608ac7e-b862-4e7d-8d05-9816aa65d6ef",
+      "name": "Blah blah",
+      "email": "blah2@mail.com",
+      "address": "blah street",
+      "dateofbirth": "1986-08-12",
+      "account": "dxfhj45312",
+      "jobarea": "Teaching",
+      "companyname": "bnn",
+      "ccardnumber": "84561"
+    },
+    {
+      "id": "26a52082-1d98-4a10-8f54-06db09d597d9",
+      "name": "Dita Pelaj",
+      "address": "2 Boszorkany út",
+      "email": "dita_s@live.com",
+      "dateofbirth": "1999-12-10",
+      "account": "yg65",
+      "jobarea": "it",
+      "ccardnumber": "8654321",
+      "companyname": "sdfghj"
+    }
+  ]
+}
